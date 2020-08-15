@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------
 Woo Star Font
 -------------------------------------------------------------------*/
-@font-face { font-family: 'star'; src: url('/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.eot'); src: url('/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.eot#iefix') format('embedded-opentype'), url('/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.woff') format('woff'), url('/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.ttf') format('truetype'), url('/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.svg#star') format('svg'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'star'; src: url('https://dr-legend.github.io/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.eot'); src: url('https://dr-legend.github.io/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.eot#iefix') format('embedded-opentype'), url('https://dr-legend.github.io/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.woff') format('woff'), url('https://dr-legend.github.io/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.ttf') format('truetype'), url('https://dr-legend.github.io/MaksPay/wp-content/themes/oceanwp/assets/fonts/star/star.svg#star') format('svg'); font-weight: normal; font-style: normal; }
 
 #reviews .comment-reply-title {
     display: none;
